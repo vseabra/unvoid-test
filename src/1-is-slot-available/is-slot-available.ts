@@ -1,5 +1,5 @@
 import { addMinutes } from 'date-fns';
-import { CalendarAvailability, CalendarSlot, Time, Weekday } from '../types';
+import { CalendarAvailability, CalendarSlot } from '../types';
 import { createDateFromTimeAndWeekday } from '../utils';
 
 /**
